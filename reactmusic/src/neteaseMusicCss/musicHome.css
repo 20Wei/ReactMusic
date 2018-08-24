@@ -1,0 +1,119 @@
+.musicDiv{
+    width: 100%;
+    /* height: 49em; */
+    height: 100%;
+    overflow: auto;
+    margin-bottom: 4em;
+}
+.Div-top{
+    width: 100%;
+    height: 6em;
+    background: #d33a31;
+    line-height: 6em;
+}
+.backDiv{
+    width: 100%;
+    height: 3em;
+    background: rgb(231, 230, 230);
+    line-height: 3em;
+    font-size: 1.5em;
+}
+.backDiv>a{
+    margin-left: 3.4em;
+    color: black;
+}
+.backDiv>a:active{
+    color: red;
+    padding-bottom: 0.8em;    
+    border-bottom: 0.2em solid red;
+}
+
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+    border: none;
+  }
+  .ant-carousel .slick-dots li{
+      border: none;
+  }
+  .lunboimg img{
+    width: 100%;
+  }
+  .lunbobottom{
+      text-align: center;
+      width: 100%;
+      height: 9em;
+      border-bottom: .1em solid rgb(187, 187, 187);
+      padding-top: 1em;
+      font-weight: 900;
+  }
+  .lunbobottom>ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  .recomendMusic{
+      width: 100%;
+      height: 3em;
+      line-height: 3em;
+      font-size: 1.3em;
+  }
+  .recomendMusic>a{
+      padding-left: 1em;
+      border-left: 3px solid red;
+      color: black;
+  }
+  .liImg img{
+    width: 8em;
+    height: 10em;
+  }
+  .liImg a{
+      width: 8em;
+      height: 13em;
+      overflow: hidden;
+      text-overflow:ellipsis;
+      white-space: nowrap;
+      display: block;
+      color: black;
+  }
+  .liImg{
+      display: flex;
+      text-align: center;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }
+  .footerDiv{
+      z-index: 999;
+      width: 100%;
+      height: 5em;
+      background: rgba(55, 55, 57,1);
+      position: fixed;
+      bottom: 0;
+      display: flex;
+      justify-content: space-around;
+      text-align: center;
+  }
+  .footerDiv a{
+      font-size: 1.3em;
+      color: rgb(177, 174, 174);
+  }
+  .footerDiv img{
+      width: 2em;
+      height: 2em;
+  }
+  .ul_li>li{
+      position: relative;
+    margin-left: 77px;
+    margin-top: -22px;
+    font-size: 20px;
+    width: 200px;
+    height: 41px;
+    background: white;
+    display: block;
+    z-index: 999;
+    text-align: center;
+    line-height: 41px;
+  }

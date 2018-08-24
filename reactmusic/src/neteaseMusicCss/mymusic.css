@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.topdivmy{
+    width: 100%;
+    height: 6em;
+    background: #d43c33;
+    line-height: 6em;
+}
+.Bigdiv{
+    width: 100%;
+    height: 100%;;
+}
+.gengduo{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+.mymusic{
+    font-size: 20px;
+    color: white; 
+    margin-left: 100px;
+}
+.mymusicimg img{
+    width: 50px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+.optionsdivs{
+    width: 100%;
+    height: 70px;
+    color: black;
+    line-height: 70px;
+    font-size: 23px;
+    padding-left: 20px;
+    display: flex;
+}
+.spandiv{
+    width: 80%;
+    height: 100%;
+    display: block;
+    margin-left: 30px;
+    border-bottom: 1px solid gray;
+}
+.spandiv_span{
+    margin-left: 140px;
+    font-size: 16;
+    color: gray;
+}
+.chuangjian{
+    width: 100%;
+    height: 6em;
+    background: #f1f1f1;
+    padding-top: 8px;
+}
+.chuangjian span{
+    display: block;
+    margin-left: 20px;
+}
+.chuangjian>span>img{
+    width: 15px;
+}

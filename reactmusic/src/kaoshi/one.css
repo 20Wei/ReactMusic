@@ -1,0 +1,10 @@
+.div_content{
+    width: 700px;
+    height: 600px;
+    border: 1px solid rebeccapurple;
+    margin:  0 auto;
+    padding: 20px;
+}
+.textnme{
+    float: right;
+}
